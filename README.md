@@ -2,6 +2,6 @@
 
 ## Entenda o Padrão Bem
 
--[Formulári](formulario.html)
+-[Formulário](formulario.html)
 
--[Pagina](pagina1.hmtl)
+-[Pagina](pagina1.html)
